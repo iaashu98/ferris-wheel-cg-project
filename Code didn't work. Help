@@ -1,0 +1,4 @@
+If the code didn't work then most probably it's a glut library error.
+In that case change the header name in the code, "#include<GL/glut.h>" to "#include<glut.h>".
+If still it didn't work then try searching for the error in Stackoverflow.com or contact me over LinkedIn or Instagram(in worst case scenario :p)
+My LinkedIn profile is https://www.linkedin.com/in/ashutosh-r-4a0b65104/ and instagram is @definition.a
